@@ -1,2 +1,4 @@
 # sanjana-demo
-this is my first Git repository.author- sanjana bangar
+this is my first Git repository.
+<br>
+author- sanjana bangar</br>
